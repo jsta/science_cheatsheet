@@ -1,3 +1,5 @@
+# What is Science?
+
 |Science is...               |	Science is not...      |
 |----------------------------|-------------------------|
 |Limited to the natural world| Decided by debate or law|
