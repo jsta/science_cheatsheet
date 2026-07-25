@@ -11,8 +11,10 @@
 |Repeatable|Democratic|
 |Verifiable|Able to solve most problems|
 |Open to change|A collection of facts|
+|Communication of human expertise|Production of research outputs|
 ||Based upon the Scientific Method|
 
 This is a non-comprehensive list. Additional phrases can be added.
 
-(c) Kimberley.bilica@utsa.edu
+(c) 2009, Kimberley.bilica@utsa.edu
+(c) 2010-present, jsta
