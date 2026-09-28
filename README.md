@@ -11,7 +11,7 @@
 |Repeatable|Democratic|
 |Verifiable|Able to solve most problems|
 |Open to change|A collection of facts|
-|Generation of human expertise|Production of machine-generated research outputs|
+|Human expertise|Machine-generated research outputs|
 |Code and data|Ceremonial badges, checklists, artifacts|
 ||Based upon the Scientific Method|
 
