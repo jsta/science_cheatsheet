@@ -4,7 +4,7 @@
 |----------------------------|-------------------------|
 |Limited to the natural world| Decided by debate or law|
 |Testable|Certain|
-|Measureable|Fair|
+|Measurable|Fair|
 |Made stronger by different lines of evidence|A search for truth|
 |A search for understanding|Based on belief|
 |Observable|Based upon proof|
@@ -13,6 +13,8 @@
 |Open to change|A collection of facts|
 |Communication of human expertise|Machine-generated research outputs|
 |Ideas, code, and data|Ceremonial badges, checklists, artifacts|
+|Deliberate|Spam|
+|Substantive|Empty marketing|
 ||Based upon the Scientific Method|
 
 This is a non-comprehensive list. Additional phrases can be added.
