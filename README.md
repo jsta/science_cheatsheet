@@ -13,7 +13,7 @@
 |Open to change|A collection of facts|
 |Communication of human expertise|Machine-generated outputs|
 |Ideas, code, and data|Ceremonial badges, checklists, artifacts|
-|Deliberate, substantive|Empty Marketing, spam|
+|Deliberate, substantive|Empty marketing, spam|
 ||Based upon the Scientific Method|
 
 This is a non-comprehensive list. Additional phrases can be added.
