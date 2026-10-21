@@ -14,6 +14,7 @@
 |Communication of human expertise|Machine-generated outputs|
 |Ideas, code, and data|Ceremonial badges, checklists, artifacts|
 |Deliberate, substantive|Empty marketing, spam|
+|A community|A lone individual|
 ||Based upon the Scientific Method|
 
 This is a non-comprehensive list. Additional phrases can be added.
